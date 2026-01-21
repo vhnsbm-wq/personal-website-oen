@@ -25,12 +25,12 @@ export const projects: Project[] = [
   },
   {
     id: 2,
-    name: '项目示例 22222',
-    description: '另一个示例项目，使用了现代前端技术栈。该项目展示了全栈开发能力，包含前端界面和后端API。',
-    techStack: ['Vue', 'Node.js', 'MongoDB', 'Express'],
+    name: '智能待办事项应用',
+    description: '一个基于 Web 的现代化待办事项管理应用（To-Do List）。旨在通过直观的界面帮助用户管理日常任务。',
+    techStack: ['Core，React，TypeScript，Vite'],
     image: '/project2.jpg', // 可以替换为实际图片路径
-    link: 'https://example.com',
-    githubLink: 'https://github.com',
+    link: 'https://product-requirements-document-prd-n.vercel.app/',
+    githubLink: 'https://github.com/vhnsbm-wq/Product-Requirements-Document-PRD-',
   },
   {
     id: 3,
