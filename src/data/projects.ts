@@ -25,7 +25,7 @@ export const projects: Project[] = [
   },
   {
     id: 2,
-    name: '项目示例 2',
+    name: '项目示例 22222',
     description: '另一个示例项目，使用了现代前端技术栈。该项目展示了全栈开发能力，包含前端界面和后端API。',
     techStack: ['Vue', 'Node.js', 'MongoDB', 'Express'],
     image: '/project2.jpg', // 可以替换为实际图片路径
